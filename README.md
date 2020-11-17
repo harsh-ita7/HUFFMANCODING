@@ -34,7 +34,7 @@ priority queue Q and append their sum to the same.
 ![huff2](huff2.PNG)
 
 ### COMPRESSION RATIO-
-The size of the compressed file is reduced to 52% of the original file.
+***The size of the compressed file is reduced to 52% of the original file.***
 
 ![huff3](huff3.PNG)
 
