@@ -27,10 +27,10 @@ priority queue Q and append their sum to the same.
 9. Create a Huffman Encode Table containing Huffman codes for each character.
 10. Encode the desired file.
 
-> HUFFMAN ENCODED TABLE-
+> EXAMPLE OF HUFFMAN ENCODED TABLE-
 ![huff1](huff1.PNG)
 
-> HUFFMAN ENCODED TEXT-
+> EXAMPLE OF HUFFMAN ENCODED TEXT-
 ![huff2](huff2.PNG)
 
 ### COMPRESSION RATIO-
@@ -41,7 +41,8 @@ The size of the compressed file is reduced to 52% of the original file.
 ### DECOMPRESSION-
 1.To decode the Huffman codes, simply traverse through the tree (starting from the root) to find the character and as soon as you reach the leafnode, just print that character.
 
->DECOMPRESSED TEXT-
+> EXAMPLE OF THE DECODED TEXT-
 ![huff4](huff4.PNG)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-ita7&exclude_repo=github-readme-stats,harsh-ita7.github.io)](https://github.com/harsh-ita7/github-readme-stats)
